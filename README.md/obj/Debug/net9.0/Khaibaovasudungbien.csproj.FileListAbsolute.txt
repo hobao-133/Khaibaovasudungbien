@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\bin\Debug\net9.0\Khaibaovasudungbien.exe
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\bin\Debug\net9.0\Khaibaovasudungbien.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\bin\Debug\net9.0\Khaibaovasudungbien.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\bin\Debug\net9.0\Khaibaovasudungbien.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\bin\Debug\net9.0\Khaibaovasudungbien.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\refint\Khaibaovasudungbien.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\Khaibaovasudungbien.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Khaibaovasudungbien\obj\Debug\net9.0\ref\Khaibaovasudungbien.dll
